@@ -21,9 +21,9 @@ You can find a Windows installation exe and an HTML5 version [https://matthewpch
 Do whatever you want, it's a free world dude.
 
 ## Credits
-3D Model: [https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705](Unity Chan)  
-Animation: [https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271](Basic Motions Free)  
-Floor material: [https://assetstore.unity.com/packages/2d/textures-materials/wood/hand-painted-seamless-wood-texture-vol-6-162145](Hand Painted Seamless Wood Texture)  
-Rag: [https://assetstore.unity.com/packages/3d/props/interior/realistic-bed-01-107993](Realistic bed)
-Music: [https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw](Theme of Laura)  
+3D Model: https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705  
+Animation: https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271  
+Floor material: https://assetstore.unity.com/packages/2d/textures-materials/wood/hand-painted-seamless-wood-texture-vol-6-162145  
+Rag: https://assetstore.unity.com/packages/3d/props/interior/realistic-bed-01-107993  
+Music: https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw  
 All the rest: Myself
