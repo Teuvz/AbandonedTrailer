@@ -15,7 +15,7 @@ The point was to check how long it would take me, a simple web programer, to rec
 This experiment proves that the amount of work put into this teaser by a professional game studio is less than minimal.
 
 ## Where can I see it run ?
-You can find a Windows installation exe and an HTML5 version [https://matthewpcharlton.com/games/AbandonedTrailer](here).
+You can find a Windows installation exe and an HTML5 version on https://matthewpcharlton.com/games/AbandonedTrailer
 
 ## What can I do with it ?
 Do whatever you want, it's a free world dude.
